@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 ##How To Contribute
 you can contribute 
 
+Please fork  this repository and then  issue pull requests for  review.
+
 ##Deployment
 
  Deploy  the  text 
