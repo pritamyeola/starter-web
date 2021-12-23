@@ -18,3 +18,8 @@ you can contribute
 
 Welcome to website
 
+
+###Copyright
+2021 Git.Training.
+
+
