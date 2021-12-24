@@ -5,7 +5,6 @@
 -->
 
 <head>
-	<title>An  Example Website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,7 +18,7 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			 some interesting stuff goes here
+			just nothin' but trouble.
 		</p>
 	</main>
 	<footer class="container">
