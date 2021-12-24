@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <!--
  Copyright 2021 Git.traning  one
- Adding changes before rebasing conflicts
+ These changes are from  the feature 
+ branch big trouble
 -->
 
 <head>
-	<title>An  Example Website</title>
+	<title>Lots of trouble</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,7 +20,7 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			 some interesting stuff goes here
+			just nothin' but trouble.
 		</p>
 	</main>
 	<footer class="container">
