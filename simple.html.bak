@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
  Copyright 2021 Git.traning  one
- Adding changes before rebasing conflicts
+ Some silly changes from master branch
 -->
 
 <head>
@@ -18,11 +18,14 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+			 some interesting stuff goes here
 			just nothin' but trouble.
+			 just  stuff for now,
+			 Not sure if we should replace this or not   	
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy; pritam yeola 2014</p>
 		<p>&copy; Git practice 24/12/21</p>
 		<p>&copy; 2021  pritam yeola </p>
 	</footer>
