@@ -5,6 +5,7 @@
 -->
 
 <head>
+	<title>Updating Title for Stash Example </title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -27,7 +28,7 @@
 	<footer class="container">
 		<p>&copy; pritam yeola 2014</p>
 		<p>&copy; Git practice 24/12/21</p>
-		<p>&copy; 2021  pritam yeola </p>
+		<p>&copy; 2021  pritam yeola, All rights received. </p>
 	</footer>
 </body>
 </html>
