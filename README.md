@@ -23,6 +23,4 @@ Welcome to website
 
 
 ###Copyright
-2021 Git.Training.one
-
-
+2021 Git.Training.All rights reserved.
